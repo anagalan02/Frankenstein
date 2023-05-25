@@ -20,8 +20,9 @@ Your program must include:
 	Count the number of words and unique words and print a sentence with the results.
 	count how often each word occurs using a for loop and save the result in a dictionary
 	print the result in a table for the most occuring words
-		Only show results for the roughly 30 most appearing words, for example if the word appears at least 100 (it depends on your novel 			which value you use) times in the novel.
-		the table needs to look somewhat pretty: all entries for a given column start aligned under each other and add a headline
-	documentation of the programming code
+		Only show results for the roughly 30 most appearing words, for example if the word appears at least 100 (it depends on your novel which value you use) 
+			times in the novel.
+		The table needs to look somewhat pretty: all entries for a given column start aligned under each other and add a headline
+			documentation of the programming code
 	Create a visualization (you can choose which type) which shows how often the most ten occuring words appeared in the novel
 		add a meningful title to the diagram which also contains the title of the novel
